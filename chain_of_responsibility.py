@@ -1,7 +1,7 @@
-# Consider a sweet nuclear family with Father, Mother, Son and a Daughter
-# Lets say on the occasion of Deepavali the childrens' grandmother sent out gifts for each one in the family.
-# She forgot to mention which gift is for whom instead asks everyone which they need.
-# This can be modelled using the Chain of responsibilty design pattern
+# Consider a Nuclear family with a Father, Mother, Son and a Daughter
+# On the occasion of Deepavali the childrens' Grandmother sent out gifts for each one in the family.
+# She forgot to mention which gift is to whom, Thus the family members each chose a gift as per thier interest and thanked the Grandmother
+# The above scenario can be modelled using the Chain of responsibilty design pattern.
 # Lets say the gifts were Watch for the father,Saree for the Mother, Laptop for the Son and Smartphone for the Daughter.
 
 # Author : Chandan N Bhat
